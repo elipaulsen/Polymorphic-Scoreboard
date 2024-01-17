@@ -5,7 +5,7 @@ a program that can act as a scoreboard for multiple sports using polymorphism.
 
 This program has an abstract class called Sport. and 6 different classes that extend Sport. All 6 sports use many basic methods and instance variables defined in the abstract sport class. The only things that are defined in the 6 derived sport classes are things unique to the sport, like how many periods, how many points awarded, and different scores etc.
 
-![UML](../umls/scoreboard.png)
+![image](https://github.com/elipaulsen/Polymorphic-Scoreboard/assets/111461613/8ad09dcc-efad-4227-8d3c-e75fc702efdd)
 
 ### User Documentation
 
